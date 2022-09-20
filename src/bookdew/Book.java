@@ -1,7 +1,7 @@
 package bookdew;
 
 /**
- * Клас, в якому описаний
+ * Клас, в якому описаний предмет книга
  */
 public class Book {
     private int id;
